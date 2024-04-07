@@ -1,1 +1,4 @@
 *.png
+time_warping/mlruns
+time_warping/lightning_logs
+time_warping/__pycache__
